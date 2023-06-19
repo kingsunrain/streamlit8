@@ -8,5 +8,5 @@ tasks:
 #  - #before: |
 #      #pip3 install streamlit
   - command: |
-      pip3 install streamlit
+      #pip3 install streamlit
       streamlit run app.py
